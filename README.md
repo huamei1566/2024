@@ -1,5 +1,4 @@
-# CloudMeeting_Server
-视频会议后台。涉及进程池，线程池，socket通信，unix域套接字。客户端地址：https://github.com/muleimulei/CloudMeeting
+较简易B/S后端,使用了线程池,进程池,select多路复用
 
 ## 使用方法
 ``
